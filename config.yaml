@@ -34,5 +34,4 @@ modeling:
     n_jobs: -1
     criterion: mae
     max_features: 0.5
-    # DO not change the following
     oob_score: true
